@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "title": "OpenMRS Threat Model",
+    "owner": "Myself & I",
+    "description": "Something test related."
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "Him & I"
+  }
+}
